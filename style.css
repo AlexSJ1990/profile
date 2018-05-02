@@ -1,0 +1,99 @@
+body {
+  background-color: #EFF0F4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #607D8B;
+  line-height: 1.6;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #FF4D4D;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+ a {
+  text-decoration: none;
+  color: #607D8B;
+}
+
+a:hover {
+  color: #F9A828;
+}
+
+
+.container {
+  padding: 50px;
+  margin: 0, auto;
+}
+
+.card {
+  width: 600px;
+  background-color: rgb(255,255,255);
+  padding: 35px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+
+.image {
+  width: 500px;
+  height: auto;
+  margin-bottom: 30px;
+  display: center;
+}
+
+.picture_round {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+
+}
+
+.center {
+  display: block;
+  margin: 20px auto 30px auto;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+
+}
+
+table {
+  text-align: center;
+  margin-left: 50px;
+}
+
+
+.text {
+  padding-bottom: 50px;
+}
+
+.btn-pink {
+  background-color: #FF4D4D;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.btn-pink:hover {
+  background-color: #e83737;
+  color: white;
+}
+
+.intro-para {
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
